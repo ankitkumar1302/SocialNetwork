@@ -1,6 +1,6 @@
-package com.example.socialnetwork.ui.theme
+package com.example.socialnetwork.presentation.theme
 
-import android.hardware.lights.Light
+
 import androidx.compose.ui.graphics.Color
 //import androidx.compose.ui.text.style.TextDrawStyle.Unspecified.color
 

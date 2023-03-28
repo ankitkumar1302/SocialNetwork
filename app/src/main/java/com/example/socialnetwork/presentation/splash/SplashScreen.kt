@@ -55,5 +55,4 @@ fun SplashScreen(
             modifier = Modifier.scale(scale.value)
         )
     }
-
 }
